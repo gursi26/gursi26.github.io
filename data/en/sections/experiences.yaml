@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Experiences
+  name: Experience
   id: experiences
   enable: true
   weight: 3
@@ -11,53 +11,53 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Cognitive Neuroscience & Sensorimotor Integration Laboratory
+    url: "https://www.utsc.utoronto.ca/~niemeier/"
+    location: Toronto, ON
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: ML Research assistant for a Computational Neuroscience Research Project 
+      under [Professor Matthias Niemeier](https://www.utsc.utoronto.ca/psych/person/matthias-niemeier).
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Machine Learning Research Assistant
+    start: Sept. 2023
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Using state-of-the-art convolutional architectures to model the ventral and dorsal streams in the human brain for object classification and robotic grasping tasks using PyTorch
+    - Working on novel, task-agnostic architectures and data visualization and analysis methods to compare the emergence of separate neural pathways to EEG data from the human brain.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: UofT AI Group
+    url: "https://www.uoft.ai/"
+    location: Toronto, ON
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Director of Education
+    start: June 2023
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Leading a team of 7 associates to develop and deliver course content to over 150 students in topics like Neural Networks, Computer Vision, Natural Language Processing (NLP) and Generative AI.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: Photografirst
+    url: ""
+    location: Toronto, ON
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Machine Learning Engineer
+    start: May 2023
+    end: July 2023
+    responsibilities:
+    - Count lost of interns.
+    - Count more interns.
+    - Count me as an intern.
+
+- company:
+    name: Photografirst
+    url: ""
+    location: Toronto, ON
+  positions:
+  - designation: Machine Learning Engineer
+    start: May 2023
+    end: July 2023
     responsibilities:
     - Count lost of interns.
     - Count more interns.

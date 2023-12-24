@@ -1,0 +1,50 @@
+# section information
+section:
+  name: Awards and Scholarships
+  id: accomplishments
+  enable: true
+  weight: 8
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: Dr. James A. & Connie P. Dickson Scholarship In Science & Mathematics
+  timeline: "November 2023"
+  organization:
+    name: University of Toronto
+    url: https://www.uc.utoronto.ca/scholarships-awards/dr-james-connie-p-dickson-scholarships-sciences-and-mathematics
+
+- name: Gordon Southam Leadership Scholarship
+  timeline: "May 2023"
+  organization:
+    name: University of Toronto
+    url: https://www.uc.utoronto.ca/scholarships-awards/gordon-southam-scholarships
+
+- name: Dean's List Scholar
+  timeline: "September 2022 - April 2023"
+  organization:
+    name: University of Toronto
+    url: https://artsci.calendar.utoronto.ca/academic-record
+
+- name: Second Place - Hack the Mist 2023
+  timeline: "March 2023"
+  organization:
+    name: Hack the Mist 2023
+    url: https://utmist.gitlab.io/hackthemist/
+
+- name: J.S. Mclean Scholarship
+  timeline: "September 2022"
+  organization:
+    name: University of Toronto
+    url: https://www.uc.utoronto.ca/scholarships-awards/js-mclean-scholarships
+
+- name: Rookie Trailblazer Award
+  timeline: "December 2021"
+  organization:
+    name: FIRST Robotics Competition
+    url: https://www.firstinspires.org/robotics/frc
+ 
+
