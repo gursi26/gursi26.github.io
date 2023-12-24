@@ -20,7 +20,11 @@ company:
 
 # a summary about you
 summary: 'I am an undergraduate student passionate about research in Machine Learning, particularly in the fields of Natural Language Processing, Computer Vision
-  and Implicit Neural Representations. I am currently an ML Research Assistant @ CoNSens Laboratory and the Director of Education @ UofT AI.'
+  and Implicit Neural Representations.'
+summarytwo: 'I currently hold the following positions;'
+summarytwopoints:
+  - name : Machine Learning Research Assistant @ [CoNSens Lab](https://www.utsc.utoronto.ca/~niemeier/)
+  - name : Director of Education @ [UofT AI](https://www.uoft.ai/)
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

@@ -19,7 +19,7 @@ experiences:
       under [Professor Matthias Niemeier](https://www.utsc.utoronto.ca/psych/person/matthias-niemeier).
   positions:
   - designation: Machine Learning Research Assistant
-    start: Sept. 2023
+    start: September 2023
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
@@ -35,7 +35,7 @@ experiences:
   - designation: Director of Education
     start: June 2023
     responsibilities:
-    - Leading a team of 7 associates to develop and deliver course content to over 150 students in topics like Neural Networks, Computer Vision, Natural Language Processing (NLP) and Generative AI.
+    - Leading a team of 7 associates to develop and deliver course content to over 150 students on topics like Neural Networks, Computer Vision, Natural Language Processing (NLP) and Generative AI.
 
 - company:
     name: Photografirst
@@ -46,19 +46,16 @@ experiences:
     start: May 2023
     end: July 2023
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Applied Vision and Swin Transformers to Computer Vision tasks like duplicate detection, semantic segmentation, and ensembling using PyTorch, Tensorflow, Scikit-Learn and Pandas.
 
 - company:
-    name: Photografirst
-    url: ""
+    name: University of Toronto Machine Intelligence Student Team (UTMIST) $\times$ Photografirst
+    url: "https://utmist.gitlab.io/projects/photoml/"
     location: Toronto, ON
   positions:
-  - designation: Machine Learning Engineer
-    start: May 2023
-    end: July 2023
+  - designation: Project Director
+    start: September 2022
+    end: May 2023
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Led a team of 9 developers to make image culling software with complex Computer Vision models like depth detection, semantic segmentation and neural style extraction in PyTorch, Tensorflow and OpenCV.
+
