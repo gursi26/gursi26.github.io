@@ -28,7 +28,13 @@ degrees:
     - name: Introduction to Computer Science I & II
     - name: Introduction to the Theory of Computation
     - name: Data Structures and Analysis
+    - name: Software Design, Tools and Systems Programming
     - name: Calculus (Single & Multivariable) with Proofs
     - name: Linear Algebra I & II
     - name: Probability, Statistics and Data Analysis I
+  honorsAndAwards:
+    - name: Dean's List Scholar
+    - name: J.S. Mclean Scholarship
+    - name: Gordon Southam Leadership Scholarship
+    - name: Dr. James A. & Connie P. Dickson Scholarship In Science & Mathematics
 

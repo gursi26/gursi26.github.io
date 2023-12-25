@@ -9,10 +9,31 @@ section:
   # hideTitle: true
 
 accomplishments:
-- name: Linux Foundation System Administrator
-  timeline: "March 2018 - March 2019"
+- name: Machine Learning with Python
   organization:
-    name: Linux Foundation
-    url: https://www.linuxfoundation.org
-  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
-  certificateURL: "https://example.com"
+    name: IBM $\times$ Coursera
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/TTNAAN6D3DFS"
+- name: Introduction to Deep Learning & Neural Networks with Keras
+  organization:
+    name: IBM $\times$ Coursera
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/9DNGA7SWBVTK"
+- name: Scalable Machine Learning on Big Data using Apache Spark
+  organization:
+    name: IBM $\times$ Coursera
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/AE6Y4JC74PAX"
+- name: Deep Neural Networks with PyTorch
+  organization:
+    name: IBM $\times$ Coursera
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/GJ3H5Q78Y9YT"
+- name: Building Deep Learning Models with Tensorflow
+  organization:
+    name: IBM $\times$ Coursera
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/3GNS5FTJWUD2"
+- name: AI Capstone Project with Deep Learning
+  organization:
+    name: IBM $\times$ Coursera
+  certificateURL: "https://www.coursera.org/account/accomplishments/certificate/LCMWNPQRG6CR"
+- name: IBM AI Engineering Specialization
+  organization:
+    name: IBM $\times$ Coursera
+  certificateURL: "https://www.coursera.org/account/accomplishments/specialization/certificate/TZFL7VM5QDYT"

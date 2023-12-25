@@ -12,53 +12,66 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Professional
-  filter: "professional"
-- name: Academic
-  filter: "academic"
-- name: Hobby
-  filter: "hobby"
+- name: Machine Learning
+  filter: "machine-learning"
+- name: Simulation
+  filter: "simulation"
+- name: Personal
+  filter: "personal"
+- name: Course Projects
+  filter: "course-project"
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+- name: ML Paper Implementations
+  repo: https://github.com/stars/gursi26/lists/paper-implementations
+  summary: PyTorch implementations of popular ML papers, including Transformers, Attention, GPT, BERT, ELMo, Vision Transformers and more.
+  tags: ["personal", "machine-learning", "pytorch"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
+- name: Studeasy
+  repo: https://github.com/gursi26/Studeasy
   #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+  summary: A webapp that uses Large Language Models to help students streamline studying by automating the boilerplate tasks. Winner of **Second Best Overall Hack** at [Hack the Mist 2023](https://devpost.com/software/studeasy)
+  tags: ["personal", "machine-learning"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
+- name: Virtual Whiteboard
+  repo: https://github.com/gursi26/virtual_drawing_board
+  summary: An app that uses hand pose estimation and a live video feed to allow the user to draw in thin air.
+  tags: ["personal","machine-learning", "pytorch", "opencv"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+- name: Pose2Play
+  repo: https://github.com/gursi26/pose2play
+  summary: An app that uses pose estimation and a live video feed to allow the user to play their favourite video games with tangible actions.
+  tags: ["personal","machine-learning", "pytorch", "opencv"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+- name: Autograd-rs
+  repo: https://github.com/gursi26/autograd-rs
+  summary: An implementation of an autograd engine that can compute gradients for arbitrary functions. Written in Rust.
+  tags: ["personal", "machine-learning", "rust"]
+
+- name: Physarum simulation
+  repo: https://github.com/gursi26/physarum-sim
+  summary: A simulation of the Physarum polychephalum slime. Written in Rust and rendered with the Bevy game engine ([Video demo](https://www.youtube.com/watch?v=PjAbe3Mrq-M)).
+  tags: ["personal","simulation", "rust"]
+
+- name: Pandemic simulation
+  repo: https://github.com/gursi26/pandemic_simulation
+  summary: A simple pandemic simulation written in Rust and rendered with Raylib.
+  tags: ["personal","simulation", "rust"]
+
+- name: Stonks
+  repo: https://github.com/awesominat/stonks
+  summary: A mock stock trading app with real-time stock prices fetched with a stock API. Written in Java, structured according to the Clean Architecture and SOLID design principles. Course Project for CSC207 (Software Design).
+  tags: ["course-project","java"]
+
+- name: COVID-19 and Stock price data analysis
+  url: https://drive.google.com/file/d/1LMmeOJtIOtCHli1ygo7fd1K8q0bLttGF/view?usp=sharing
+  summary: A detailed statistical analysis of the relation between the spread of COVID-19 and stock prices of tech companies. Course project for STA130 (Statistical Reasoning).
+  tags: ["course-project", "R"]
+# - name: Toha
+#   logo: /images/sections/projects/toha.png
+#   role: Owner
+#   timeline: "Jun 2019 - Present"
+#   repo: https://github.com/hossainemruz/toha
+#   summary: A Hugo theme for personal portfolio.
+#   tags: ["hobby","hugo","theme","professional"]

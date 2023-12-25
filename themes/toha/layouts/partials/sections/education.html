@@ -43,7 +43,7 @@
                             </div>
                             <h6>{{ .name }}</h6>
                             {{ if .grade }}
-                                <h6><span class="text-heading">{{ .grade.scale }}: </span><span>{{ .grade.achieved }}</span> {{ i18n "out_of"}} <span>{{ .grade.outOf }}</span></h6>
+                                <h6><span class="text-heading">{{ .grade.scale }}: </span><span>{{ .grade.achieved }}</span> / <span>{{ .grade.outOf }}</span></h6>
                             {{ end }}
                             {{ if .publications }}
                                 <div class="publications">
@@ -59,6 +59,18 @@
                                     </ul>
                                 </div>
                             {{ end }}
+
+                            <div>
+                                <h6 class="text-heading">Honors and Awards:</h6>
+                                {{ if .honorsAndAwards }}
+                                    <ul>
+                                    {{ range .honorsAndAwards }}
+                                        <li>{{ .name }}</li>
+                                    {{ end }}
+                                    </ul>
+                                {{ end }}
+                            </div>
+
                             {{ if .takenCourses }}
                             {{ $collapseAfter  := .takenCourses.collapseAfter | default 2 }}
                             <div class="taken-courses">
