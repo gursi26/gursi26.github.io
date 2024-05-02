@@ -11,6 +11,38 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Loblaw Companies Limited
+    url: "https://www.loblaw.ca/"
+    location: Greater Toronto Area, ON
+    # company overview
+    # overview: 
+  positions:
+  - designation: Data Science Intern
+    start: May 2024
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    # - Using state-of-the-art convolutional architectures to model the ventral and dorsal streams in the human brain for object classification and robotic grasping tasks using PyTorch
+    # - Working on novel, task-agnostic architectures and data visualization and analysis methods to compare the emergence of separate neural pathways to EEG data from the human brain.
+- company:
+    name: UofT Robotics Institute
+    url: "https://robotics.utoronto.ca/"
+    location: Toronto, ON
+    # company overview
+    overview: Researching zero-calibration EEG decoding with source selection for Brain-Machine Interfaces
+      under [Dr. Brokoslaw Laschowski](https://tcairem.utoronto.ca/faculty/brokoslaw-laschowski).
+  positions:
+  - designation: Machine Learning Researcher
+    start: April 2024
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    # - Using state-of-the-art convolutional architectures to model the ventral and dorsal streams in the human brain for object classification and robotic grasping tasks using PyTorch
+    # - Working on novel, task-agnostic architectures and data visualization and analysis methods to compare the emergence of separate neural pathways to EEG data from the human brain.
+
+- company:
     name: Cognitive Neuroscience & Sensorimotor Integration Laboratory
     url: "https://www.utsc.utoronto.ca/~niemeier/"
     location: Toronto, ON
@@ -20,22 +52,13 @@ experiences:
   positions:
   - designation: Machine Learning Research Assistant
     start: September 2023
+    end: April 2024
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Using state-of-the-art convolutional architectures to model the ventral and dorsal streams in the human brain for object classification and robotic grasping tasks using PyTorch
     - Working on novel, task-agnostic architectures and data visualization and analysis methods to compare the emergence of separate neural pathways to EEG data from the human brain.
-
-- company:
-    name: UofT AI Group
-    url: "https://www.uoft.ai/"
-    location: Toronto, ON
-  positions:
-  - designation: Director of Education
-    start: June 2023
-    responsibilities:
-    - Leading a team of 7 associates to develop and deliver course content to over 150 students on topics like Neural Networks, Computer Vision, Natural Language Processing (NLP) and Generative AI.
 
 - company:
     name: Photografirst

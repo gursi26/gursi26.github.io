@@ -19,12 +19,12 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am an undergraduate student passionate about research in Machine Learning, particularly in the fields of Natural Language Processing, Computer Vision
+summary: 'I am an undergraduate student passionate about research in Machine Learning, particularly in the fields of Computer Vision
   and Implicit Neural Representations.'
 summarytwo: 'I currently hold the following positions;'
 summarytwopoints:
-  - name : Machine Learning Research Assistant @ [CoNSens Lab](https://www.utsc.utoronto.ca/~niemeier/)
-  - name : Director of Education @ [UofT AI](https://www.uoft.ai/)
+  - name : Data Science Intern @ [Loblaw Companies Limited](https://www.loblaw.ca/)
+  - name : Machine Learning Researcher @ [UofT Robotics Institute](https://robotics.utoronto.ca/)
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -83,7 +83,7 @@ badges:
 
 - type: soft-skill-indicator
   name: Tensorflow
-  percentage: 70
+  percentage: 80
   color: orange
 
 - type: soft-skill-indicator
@@ -93,7 +93,7 @@ badges:
 
 - type: soft-skill-indicator
   name: Rust
-  percentage: 85
+  percentage: 95
   color: orange
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
