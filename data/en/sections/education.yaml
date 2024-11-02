@@ -25,6 +25,10 @@ degrees:
     showGrades: false
     collapseAfter: 3
     courses:
+    - name: Machine Learning
+    - name: Computer Graphics
+    - name: Image Processing
+    - name: Operating Systems
     - name: Introduction to Computer Science I & II
     - name: Introduction to the Theory of Computation
     - name: Data Structures and Analysis
@@ -37,4 +41,5 @@ degrees:
     - name: J.S. Mclean Scholarship
     - name: Gordon Southam Leadership Scholarship
     - name: Dr. James A. & Connie P. Dickson Scholarship In Science & Mathematics
+    - name: Dora Burke Playfair Leadership Award
 
