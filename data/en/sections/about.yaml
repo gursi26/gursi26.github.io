@@ -20,10 +20,11 @@ company:
 
 # a summary about you
 summary: 'I am an undergraduate student passionate about research in Machine Learning, particularly in the fields of Computer Vision
-  and Implicit Neural Representations.'
+  for perception and control in robotics tasks.'
 summarytwo: 'I currently hold the following positions;'
 summarytwopoints:
-  - name : Data Science Intern @ [Loblaw Companies Limited](https://www.loblaw.ca/)
+  - name : Research Assistant @ [Acceleration Consortium](https://acceleration.utoronto.ca/)
+  - name : Research Assistant @ [PAIR Lab](https://www.pair.toronto.edu/)
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
