@@ -10,35 +10,48 @@ section:
 
 # Your experiences
 experiences:
+
+- company:
+    name: Acceleration Consortium
+    url: "https://acceleration.utoronto.ca/"
+    location: Toronto, ON
+    overview: Working on projects in Robotics, Computer Vision and AI for Self-Driving Labs.
+  positions:
+  - designation: Research Assistant
+    start: September 2024
+    # end: August 2020
+
+- company:
+    name: People, AI, & Robots (PAIR) Research Group
+    url: "https://www.pair.toronto.edu/"
+    location: Toronto, ON
+    overview: Working with Gaussian Splatting and Neural Radiance Fields for perception in robotics tasks supervised by [Prof. Animesh Garg](https://animesh.garg.tech/).
+  positions:
+  - designation: Research Assistant
+    start: September 2024
+    # end: August 2020
+
 - company:
     name: Loblaw Companies Limited
     url: "https://www.loblaw.ca/"
     location: Greater Toronto Area, ON
-    # company overview
-    # overview: 
   positions:
   - designation: Data Science Intern
     start: May 2024
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
+    end: August 2020
     responsibilities:
-    # - Using state-of-the-art convolutional architectures to model the ventral and dorsal streams in the human brain for object classification and robotic grasping tasks using PyTorch
-    # - Working on novel, task-agnostic architectures and data visualization and analysis methods to compare the emergence of separate neural pathways to EEG data from the human brain.
+    - Built a web automation tool in Python and Selenium and deployed it company wide on GCP.
+    - Worked on a vector search engine and LLM-based data cleaning pipeline for product data in Python.
+
 - company:
     name: Cognitive Neuroscience & Sensorimotor Integration Laboratory
     url: "https://www.utsc.utoronto.ca/~niemeier/"
     location: Toronto, ON
-    # company overview
-    overview: ML Research assistant for a Computational Neuroscience Research Project 
-      under [Professor Matthias Niemeier](https://www.utsc.utoronto.ca/psych/person/matthias-niemeier).
+    overview: Research Assistant for an interdisciplinary research project in Deep Learning and Computational Neuroscience. Supervised by [Prof. Matthias Niemeier](https://www.utsc.utoronto.ca/psych/person/matthias-niemeier).
   positions:
-  - designation: Machine Learning Research Assistant
+  - designation: Research Assistant
     start: September 2023
     end: April 2024
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
     responsibilities:
     - Using state-of-the-art convolutional architectures to model the ventral and dorsal streams in the human brain for object classification and robotic grasping tasks using PyTorch
     - Working on novel, task-agnostic architectures and data visualization and analysis methods to compare the emergence of separate neural pathways to EEG data from the human brain.
